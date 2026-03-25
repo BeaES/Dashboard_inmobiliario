@@ -1,15 +1,17 @@
 # Dashboard Inmobiliario
 
-Este dashboard analiza el beneficio y la rentabilidad anual de los inmuebles.
+## Descripción
+Este repositorio contiene un dashboard de análisis inmobiliario creado en Power BI, con métricas de beneficio y rentabilidad por inmueble.
 
-## Archivos incluidos
-- `dashboard_inmobiliario.pbix`: archivo Power BI
-- `datos_inmobiliarios.csv`: datos de los inmuebles
+## Archivos
+- `datos_inmobiliarios.xlsx` – archivo con los datos de los inmuebles.
+- `DashboardInmobiliario.pbix` – archivo de Power BI con el dashboard.
 
-## Métricas
-- Beneficio total
-- Rentabilidad anual promedio
-- Meses de operación
+## Captura del Dashboard
 
-## Uso
-Abrir el archivo `.pbix` en Power BI Desktop y explorar los gráficos y tarjetas.
+![Dashboard Inmobiliario](imagenes/dashboard.png)
+
+## Cómo usar
+1. Abrir el archivo `DashboardInmobiliario.pbix` en Power BI Desktop.
+2. Revisar los gráficos, tarjetas y filtros interactivos.
+3. Modificar los datos si se desea y refrescar el dashboard.
