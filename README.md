@@ -9,7 +9,7 @@ Este repositorio contiene un dashboard de análisis inmobiliario creado en Power
 
 ## Captura del Dashboard
 
-![Dashboard Inmobiliario](archivos/dashboard.png)
+![Dashboard Inmobiliario](dashboard.png)
 
 ## Cómo usar
 1. Abrir el archivo `DashboardInmobiliario.pbix` en Power BI Desktop.
